@@ -23,4 +23,5 @@ public class Vehicle implements Serializable {
     @Column
     private String name;
 
+
 }
